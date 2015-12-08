@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="GmailTest">
+
+	<test name="AccountCreationTest">
+		<classes>
+			<class name="com.pack.test.CreateAccountTest" />
+		</classes>
+	</test>
+	
+</suite>
